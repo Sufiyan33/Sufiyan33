@@ -1,7 +1,6 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Sufiyan Ahmad</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiyan33&label=Profile%20views&color=0e75b6&style=flat" alt="sufiyan33" /> </p>
 
